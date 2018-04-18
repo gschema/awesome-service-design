@@ -5,7 +5,7 @@ Curated list of awesome service design resources
 ## Articles
 - [Service Design 101](https://www.nngroup.com/articles/service-design-101/)
 - [Service Blueprints: Definition](https://www.nngroup.com/articles/service-blueprints-definition/)
-- [5-steps-service-blueprinting](https://www.nngroup.com/articles/5-steps-service-blueprinting/)
+- [The 5 Steps to Service Blueprinting](https://www.nngroup.com/articles/5-steps-service-blueprinting/)
 - [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
 - [Planning Effective UX Workshop Agendas](https://www.nngroup.com/articles/ux-workshop-agendas/)
 - [Design Critiques: Encourage a Positive Culture to Improve Products](https://www.nngroup.com/articles/design-critiques/)
@@ -14,7 +14,9 @@ Curated list of awesome service design resources
 - [The Ultimate Guide To Better Service Design](https://www.creativebloq.com/features/the-ultimate-guide-to-better-service-design)
 - [The Principles of Service Design Thinking - Building Better Services](https://www.interaction-design.org/literature/article/the-principles-of-service-design-thinking-building-better-services)
 
-## Methods
+## Process & Methods
+- [Practical Service Blueprintin Guide](http://www.practicalservicedesign.com/the-guide/)
+- [The 5 Steps to Service Blueprinting](https://www.nngroup.com/articles/5-steps-service-blueprinting/)
 - [Service Desing Methods Overview](https://www.thisisservicedesigndoing.com/methods)
 - [Awesome UX](https://github.com/gschema/awesome-ux)
 
