@@ -3,6 +3,7 @@
 Curated list of awesome service design resources
 
 ## Articles
+- [Original 1984. "Designing Services That Deliver" by G. Lynn Shostack](https://hbr.org/1984/01/designing-services-that-deliver)
 - [Service Design 101 by Nielsen Norman Group](https://www.nngroup.com/articles/service-design-101/)
 - [Service Design 101](http://www.practicalservicedesign.com/service-design-101/)
 - [Service Blueprints: Definition](https://www.nngroup.com/articles/service-blueprints-definition/)
