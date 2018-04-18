@@ -37,3 +37,9 @@ Curated list of awesome service design resources
 - [Service Design Blueprint](https://www.nngroup.com/articles/service-blueprints-definition/)
 - [Awesome UX](https://github.com/gschema/awesome-ux)
 - [Mural - Think And Collaborate Visually](https://mural.co/)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Dusan Gledovic](https://gledovic.com) has waived all copyright and related or neighboring rights to this work.
