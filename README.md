@@ -3,7 +3,8 @@
 Curated list of awesome service design resources
 
 ## Articles
-- [Service Design 101](https://www.nngroup.com/articles/service-design-101/)
+- [Service Design 101 by Nielsen Norman Group](https://www.nngroup.com/articles/service-design-101/)
+- [Service Design 101](http://www.practicalservicedesign.com/service-design-101/)
 - [Service Blueprints: Definition](https://www.nngroup.com/articles/service-blueprints-definition/)
 - [The 5 Steps to Service Blueprinting](https://www.nngroup.com/articles/5-steps-service-blueprinting/)
 - [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
@@ -13,6 +14,8 @@ Curated list of awesome service design resources
 - [Ideation in Practice: How Effective UX Teams Generate Ideas](https://www.nngroup.com/articles/ideation-in-practice/)
 - [The Ultimate Guide To Better Service Design](https://www.creativebloq.com/features/the-ultimate-guide-to-better-service-design)
 - [The Principles of Service Design Thinking - Building Better Services](https://www.interaction-design.org/literature/article/the-principles-of-service-design-thinking-building-better-services)
+- [Demystifying Service Design — Part 1](https://blog.practicalservicedesign.com/demystifying-service-design-part-1-56be3322d070)
+- [Demystifying Service Design — Part 2](https://blog.practicalservicedesign.com/demystifying-service-design-part-2-2602772c317d)
 
 ## Process & Methods
 - [Practical Service Blueprintin Guide](http://www.practicalservicedesign.com/the-guide/)
@@ -24,6 +27,7 @@ Curated list of awesome service design resources
 - [This is Service Design Thinking](http://thisisservicedesignthinking.com/)
 - [This is Service Design Doing](https://www.thisisservicedesigndoing.com/)
 - [Mapping Experiences](http://shop.oreilly.com/product/0636920038870.do)
+- [Service Design for Business: A Practical Guide to Optimizing the Customer Experience](https://www.wiley.com/en-us/Service+Design+for+Business%3A+A+Practical+Guide+to+Optimizing+the+Customer+Experience-p-9781118988923)
 
 ## Courses
 - [Intro To Practical Service Blueprinting](http://www.practicalservicedesign.com/courses/)
